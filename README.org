@@ -18,7 +18,7 @@ A historical events visualization for users to learn history: the example of the
 
   The main view of the system is as follows:
 
-  [[./org/vis-ThreeKingdoms.png]]
+  [[./org/vis-threekingdoms.png]]
 
 * Install
 
