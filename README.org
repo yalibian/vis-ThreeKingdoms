@@ -1,0 +1,33 @@
+#+TITLE:           vis-ThreeKingdoms: visualization of historical events
+#+AUTHOR:       Yali Bian
+#+EMAIL:          byl.lisp@gmail.com
+#+DATE:           2015-08-25 Tue
+
+A historical events visualization for users to learn history: the example of the three kingdoms in Chinese history, shows how it visualizes the history of people, places and events.
+
+* Demo
+
+  You can test the visualization system through [[http://www.yalibian.com/vis/ThreeKingdoms][this demo]].
+
+  If you want to explore all the functions of this visualization system, you can install, build and use it yourself.
+
+
+* Usage
+
+  There is a [[http://www.yalibian.com/data/vis-threekingdom.mov][redio]], to display the view and all the interactions of this system.
+
+  The main view of the system is as follows:
+
+  [[./org/vis-ThreeKingdoms.png]]
+
+* Install
+
+  If you want to build this system on your own pc, you should:
+
+  + Download this repo
+  + Serve this repo as the Static html files (make sure csv, or JSon files can be loaded to your browser)
+  + Open "index.html" in your Browser (Like Chrome, Firfox, or Safari).
+
+* License
+
+  MIT license (© 2014-2015 Yali Bian)
